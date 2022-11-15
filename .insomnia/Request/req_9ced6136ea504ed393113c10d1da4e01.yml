@@ -1,0 +1,25 @@
+_id: req_9ced6136ea504ed393113c10d1da4e01
+type: Request
+parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
+modified: 1668527153040
+created: 1668526977697
+url: http://localhost:3000/api/fundings/
+name: "Get: fundings"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1661968086778.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

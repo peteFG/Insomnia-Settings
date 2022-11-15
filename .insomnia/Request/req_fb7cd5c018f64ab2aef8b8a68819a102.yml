@@ -1,0 +1,25 @@
+_id: req_fb7cd5c018f64ab2aef8b8a68819a102
+type: Request
+parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
+modified: 1668529889219
+created: 1668526989878
+url: http://localhost:3000/api/login
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"email":"p.feldgrill@gmail.com","password":"12345678"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668526583430
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

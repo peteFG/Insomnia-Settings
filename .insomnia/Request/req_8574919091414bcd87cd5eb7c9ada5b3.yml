@@ -1,0 +1,36 @@
+_id: req_8574919091414bcd87cd5eb7c9ada5b3
+type: Request
+parentId: fld_3ddcc72639df4d948843f1765dbce670
+modified: 1655409601159
+created: 1655409029489
+url: localhost:5011/api/Publication/AddFileToPublication/629fa1b0193719522705e82e
+name: AddFileToPublication
+description: ""
+method: PATCH
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_30a72d006de44557bc9e97d2a3e9fe42
+      name: file
+      value: ""
+      description: ""
+      type: file
+      fileName: F:\Studium\AIM Master\2. Semester\IFIAD\Personas.pdf
+    - id: pair_983c5940e97b4806baac8c0793c0f454
+      name: publicationId
+      value: 629fa1b0193719522705e82e
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_071574f448d646c9bd15f4d294bdd2aa
+authentication: {}
+metaSortKey: -1655409590165
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

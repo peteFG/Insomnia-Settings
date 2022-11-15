@@ -1,0 +1,25 @@
+_id: req_f43c024f08374564afee42fe1c4ae948
+type: Request
+parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
+modified: 1668527901456
+created: 1668527885564
+url: http://localhost:3000/api/organisations/
+name: "Get: Organisations"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1659098744515.7031
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

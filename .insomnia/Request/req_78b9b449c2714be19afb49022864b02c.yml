@@ -1,0 +1,59 @@
+_id: req_78b9b449c2714be19afb49022864b02c
+type: Request
+parentId: fld_3ddcc72639df4d948843f1765dbce670
+modified: 1655805307596
+created: 1655409586683
+url: localhost:5011/api/Publication/AddPublication
+name: AddPublication
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_114fac30830c4a549f9bade65d5fbfb1
+      name: year
+      value: "2022"
+      description: ""
+    - id: pair_dc8c79e8b8df4bf6aa417554b844dc84
+      name: title
+      value: test
+      description: ""
+    - id: pair_5e50fd45a9b24cdf8346789d02c9148a
+      name: description
+      value: descriptiontest
+      description: ""
+    - id: pair_c2f2df7170d6413d8cc16ffde81dc83f
+      name: abstract
+      value: abstracttest
+      description: ""
+    - id: pair_2bfd05b0d46548b8a4b2ea5c46c53510
+      name: price
+      value: "0"
+      description: ""
+    - id: pair_9c39d8e4d8f3452c940b82f25e8cc7b0
+      name: tags
+      value: test, test, test
+      description: ""
+    - id: pair_adccc237b66f4a0c90d640ae4451df2a
+      name: file
+      value: ""
+      description: ""
+      type: file
+      fileName: F:\Studium\AIM Master\2. Semester\IFIAD\Personas.pdf
+      disabled: true
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_b6aabda53bb74c2f80cc669d55dfc04d
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI2MjlmYTFhMzU2MjdiZjRjNDhhOWI3NGYiLCJnaXZlbl9uYW1lIjoiRmVsZGdyaWxsIFBldGVyIiwid2luYWNjb3VudG5hbWUiOiJwZXRlRkciLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2NTU0MTEwMTUsImV4cCI6MTY1NjAxNTgxNSwiaWF0IjoxNjU1NDExMDE1LCJpc3MiOiJodHRwOi8vc2NoaXNjaG9pc3N1ZXIuY29tIiwiYXVkIjoiaHR0cDovL3NjaGlzY2hvYXVkaWVuY2UuY29tIn0.AfmtQW4TaxjTVPZrYEo1X0xRqB4AzuH4pwLZM83fhzw
+metaSortKey: -1655409590127.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
