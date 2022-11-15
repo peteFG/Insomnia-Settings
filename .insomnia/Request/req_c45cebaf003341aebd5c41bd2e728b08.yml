@@ -1,0 +1,28 @@
+_id: req_c45cebaf003341aebd5c41bd2e728b08
+type: Request
+parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
+modified: 1668535153100
+created: 1668535130181
+url: http://localhost:3000/api/fundings/6373b4b3f10ef004630ac541
+name: "Delete: funding"
+description: ""
+method: DELETE
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_ea7c97cc51b1420da3911c37462a931b
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNDY5MDUxMDgzMGFkOTlhMTMzZDRkOSIsInVzZXJuYW1lIjoicGV0ZWZnIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2Njg1MzE3NDAsImV4cCI6MTY2ODU2MDU0MH0.qiUj8yqX4-wLMRBSv27fuL2WOHnaA68r1oL_yY_RIbY
+metaSortKey: -1659406174043.8867
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
