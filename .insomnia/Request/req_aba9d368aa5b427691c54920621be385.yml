@@ -1,7 +1,7 @@
 _id: req_aba9d368aa5b427691c54920621be385
 type: Request
-parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1669550848851
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669551076401
 created: 1669546510865
 url: http://localhost:3000/api/fundings/searchNames
 name: "Get: Fundings searchNames"
@@ -23,7 +23,7 @@ headers:
   - name: Content-Type
     value: multipart/form-data
 authentication: {}
-metaSortKey: -1660021033100.254
+metaSortKey: -1659713603653.3203
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

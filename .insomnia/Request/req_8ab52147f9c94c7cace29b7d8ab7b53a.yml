@@ -1,7 +1,7 @@
 _id: req_8ab52147f9c94c7cace29b7d8ab7b53a
 type: Request
-parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1669195513688
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669551071609
 created: 1669195509488
 url: http://localhost:3000/api/fundings/count
 name: "Get: Count fundings "
@@ -15,7 +15,7 @@ headers:
   - name: Content-Type
     value: multipart/form-data
 authentication: {}
-metaSortKey: -1661148274703.5938
+metaSortKey: -1659713603647.0703
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

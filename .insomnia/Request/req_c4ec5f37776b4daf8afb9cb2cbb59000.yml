@@ -1,7 +1,7 @@
 _id: req_c4ec5f37776b4daf8afb9cb2cbb59000
 type: Request
-parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1668529376629
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669551074095
 created: 1668527319285
 url: http://localhost:3000/api/fundings/6373b4b3f10ef004630ac4d8/
 name: "Get: funding/fundingId"
@@ -16,7 +16,7 @@ headers:
     value: multipart/form-data
     id: pair_ea7c97cc51b1420da3911c37462a931b
 authentication: {}
-metaSortKey: -1660328462628.4375
+metaSortKey: -1659713603659.5703
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,7 +1,7 @@
 _id: req_7a4f9aeaae874b6987f0e9899892b9e9
 type: Request
-parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1668585783065
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669551056354
 created: 1668531703900
 url: http://localhost:3000/api/fundings/
 name: "Delete: Funding DeleteManyFromType"

@@ -1,7 +1,7 @@
 _id: req_9ced6136ea504ed393113c10d1da4e01
 type: Request
-parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1668527153040
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669551068497
 created: 1668526977697
 url: http://localhost:3000/api/fundings/
 name: "Get: fundings"
@@ -15,7 +15,7 @@ headers:
   - name: Content-Type
     value: multipart/form-data
 authentication: {}
-metaSortKey: -1661968086778.75
+metaSortKey: -1659713603672.0703
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

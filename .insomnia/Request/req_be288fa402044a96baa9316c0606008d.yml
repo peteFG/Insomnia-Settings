@@ -1,7 +1,7 @@
 _id: req_be288fa402044a96baa9316c0606008d
 type: Request
-parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1668585376392
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669551065612
 created: 1668526583380
 url: http://localhost:3000/api/fundings/import
 name: "Post: fundings/import"
@@ -25,7 +25,7 @@ headers:
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjY4NTg1MDM4LCJleHAiOjE2Njg2MTM4Mzh9.COSVvmlgqxjl3w8BR268b6V0woNsV1trmxfzMnPkqVU
-metaSortKey: -1668526583380
+metaSortKey: -1659713603622.0703
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
