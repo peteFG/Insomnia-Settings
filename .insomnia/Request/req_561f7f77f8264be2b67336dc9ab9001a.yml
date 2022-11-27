@@ -1,21 +1,21 @@
-_id: req_fb7cd5c018f64ab2aef8b8a68819a102
+_id: req_561f7f77f8264be2b67336dc9ab9001a
 type: Request
 parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1668596218790
-created: 1668526989878
-url: http://localhost:3000/api/login
-name: Login
+modified: 1669195556284
+created: 1669195548499
+url: http://localhost:3000/api/transfers/count
+name: "Get: Count Transfers "
 description: ""
-method: POST
+method: GET
 body:
-  mimeType: application/json
-  text: '{"email":"p.feldgrill@gmail.com","password":"12345678"}'
+  mimeType: multipart/form-data
+  params: []
 parameters: []
 headers:
   - name: Content-Type
-    value: application/json
+    value: multipart/form-data
 authentication: {}
-metaSortKey: -1668526583430
+metaSortKey: -1659098744490.7031
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

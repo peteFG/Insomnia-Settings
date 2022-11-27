@@ -1,0 +1,33 @@
+_id: req_a8375bbc440943f49a1f46dfc55783db
+type: Request
+parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
+modified: 1669546470260
+created: 1669546250591
+url: http://localhost:3000/api/transfers/searchNames
+name: "Get: Transfers searchNames"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters:
+  - id: pair_e180438c536a4e3d8b9733741ddccf6a
+    name: name
+    value: ob
+    description: ""
+  - id: pair_fe191ac508304615b18917a5733f1060
+    name: type
+    value: org
+    description: ""
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1659098744478.2031
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_aba9d368aa5b427691c54920621be385
+type: Request
+parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
+modified: 1669550848851
+created: 1669546510865
+url: http://localhost:3000/api/fundings/searchNames
+name: "Get: Fundings searchNames"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters:
+  - id: pair_e180438c536a4e3d8b9733741ddccf6a
+    name: name
+    value: Zeitung
+    description: ""
+  - id: pair_fe191ac508304615b18917a5733f1060
+    name: type
+    value: dasasda
+    description: ""
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1660021033100.254
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
