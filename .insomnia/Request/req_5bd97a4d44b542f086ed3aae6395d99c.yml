@@ -1,0 +1,25 @@
+_id: req_5bd97a4d44b542f086ed3aae6395d99c
+type: Request
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669664022102
+created: 1669663999577
+url: http://localhost:3000/api/fundings/periods
+name: "Get: Fundings periods"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1659713603650.1953
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

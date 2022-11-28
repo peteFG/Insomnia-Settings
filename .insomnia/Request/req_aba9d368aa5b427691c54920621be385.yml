@@ -1,7 +1,7 @@
 _id: req_aba9d368aa5b427691c54920621be385
 type: Request
 parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
-modified: 1669551076401
+modified: 1669554693280
 created: 1669546510865
 url: http://localhost:3000/api/fundings/searchNames
 name: "Get: Fundings searchNames"
@@ -13,11 +13,11 @@ body:
 parameters:
   - id: pair_e180438c536a4e3d8b9733741ddccf6a
     name: name
-    value: Zeitung
+    value: zeitung
     description: ""
   - id: pair_fe191ac508304615b18917a5733f1060
     name: type
-    value: dasasda
+    value: payer
     description: ""
 headers:
   - name: Content-Type

@@ -1,0 +1,49 @@
+_id: req_b427b6a9155a4aaabf79b390f9c44bf6
+type: Request
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669670528081
+created: 1669670437783
+url: http://localhost:3000/api/fundings/top
+name: "Get: Top Entries Funding"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters:
+  - id: pair_c07c3b3bde4e4679be842ea65f33a600
+    name: resultType
+    value: org
+    description: ""
+  - id: pair_9f2cfdf243e743a490085b5a6ff42d9c
+    name: pType
+    value: "2"
+    description: ""
+  - id: pair_cb6f9e5b9a5740bda039e6f1b560ae41
+    name: x
+    value: "15"
+    description: ""
+  - id: pair_f6570c320844453d8e0ef42e5927f96c
+    name: groupType
+    value: group
+    description: ""
+  - id: pair_5c048c7a34744719a51c16d58544167d
+    name: from
+    value: "2021"
+    description: ""
+  - id: pair_ade239c2292e4cd6bfc7b10a39e952ee
+    name: to
+    value: "2022"
+    description: ""
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1659713603634.5703
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
