@@ -1,29 +1,25 @@
-_id: req_aba9d368aa5b427691c54920621be385
+_id: req_c4c4fcbdead049cc88ac04149a5e2c81
 type: Request
 parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
-modified: 1670786591287
-created: 1669546510865
-url: http://localhost:3000/api/fundings/searchNames
-name: "Get: Fundings searchNames"
+modified: 1670789061712
+created: 1670788853561
+url: http://localhost:3000/api/fundings/top
+name: "Get: Top Entries Funding2"
 description: ""
 method: GET
 body:
   mimeType: multipart/form-data
   params: []
 parameters:
-  - id: pair_e180438c536a4e3d8b9733741ddccf6a
-    name: name
-    value: r
-    description: ""
-  - id: pair_fe191ac508304615b18917a5733f1060
-    name: type
-    value: payer
+  - id: pair_5b1ed8cbfa874101b9116358d71df221
+    name: x
+    value: "15"
     description: ""
 headers:
   - name: Content-Type
     value: multipart/form-data
 authentication: {}
-metaSortKey: -1659713603653.3203
+metaSortKey: -1659713603631.4453
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

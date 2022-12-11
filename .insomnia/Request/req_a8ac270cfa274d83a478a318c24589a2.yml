@@ -1,0 +1,25 @@
+_id: req_a8ac270cfa274d83a478a318c24589a2
+type: Request
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1669981954677
+created: 1669981950332
+url: http://localhost:3000/api/fundings/filter
+name: "Get: Fundings Filter"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1659713603648.6328
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

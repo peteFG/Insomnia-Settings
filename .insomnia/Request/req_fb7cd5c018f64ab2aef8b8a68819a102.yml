@@ -1,7 +1,7 @@
 _id: req_fb7cd5c018f64ab2aef8b8a68819a102
 type: Request
 parentId: fld_17c96662bfd94e0a9debfaf9b82739fe
-modified: 1669551079664
+modified: 1670787251358
 created: 1668526989878
 url: http://localhost:3000/api/login
 name: Login
@@ -9,7 +9,7 @@ description: ""
 method: POST
 body:
   mimeType: application/json
-  text: '{"email":"p.feldgrill@gmail.com","password":"12345678"}'
+  text: '{"email":"marcel@test.com","password":"marcel1234"}'
 parameters: []
 headers:
   - name: Content-Type
