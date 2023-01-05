@@ -1,10 +1,10 @@
-_id: req_a8375bbc440943f49a1f46dfc55783db
+_id: req_41c659715c644c1e9e39cf221e66215c
 type: Request
-parentId: fld_a638a0ab80c44b918d558c442039049c
-modified: 1672919944046
-created: 1669546250591
-url: http://localhost:3000/api/transfers/searchNameshttp://localhost:3000/api/transfers/searchNames
-name: "Get: Transfers searchNames"
+parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
+modified: 1672926425465
+created: 1672920039178
+url: http://localhost:3000/api/fundings/search
+name: "Get: Fundings search"
 description: ""
 method: GET
 body:
@@ -13,17 +13,13 @@ body:
 parameters:
   - id: pair_e180438c536a4e3d8b9733741ddccf6a
     name: name
-    value: ob
-    description: ""
-  - id: pair_fe191ac508304615b18917a5733f1060
-    name: type
-    value: org
+    value: standard der
     description: ""
 headers:
   - name: Content-Type
     value: multipart/form-data
 authentication: {}
-metaSortKey: -1659098744540.7031
+metaSortKey: -1659713603656.4453
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

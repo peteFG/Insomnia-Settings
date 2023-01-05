@@ -1,7 +1,7 @@
 _id: req_b427b6a9155a4aaabf79b390f9c44bf6
 type: Request
 parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
-modified: 1670789028001
+modified: 1671055990895
 created: 1669670437783
 url: http://localhost:3000/api/fundings/top
 name: "Get: Top Entries Funding"
@@ -11,17 +11,9 @@ body:
   mimeType: multipart/form-data
   params: []
 parameters:
-  - id: pair_9f2cfdf243e743a490085b5a6ff42d9c
-    name: fundingType
-    value: "0"
-    description: ""
   - id: pair_cb6f9e5b9a5740bda039e6f1b560ae41
     name: x
     value: "15"
-    description: ""
-  - id: pair_f6570c320844453d8e0ef42e5927f96c
-    name: showGroup
-    value: "true"
     description: ""
   - id: pair_5c048c7a34744719a51c16d58544167d
     name: from
