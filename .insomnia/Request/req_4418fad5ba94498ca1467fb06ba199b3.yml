@@ -1,0 +1,21 @@
+_id: req_4418fad5ba94498ca1467fb06ba199b3
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1680024850016
+created: 1680024698767
+url: http://localhost:3000/api/files/
+name: "Get: Files"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680024698767
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

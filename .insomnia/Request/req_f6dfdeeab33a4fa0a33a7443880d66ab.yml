@@ -1,0 +1,34 @@
+_id: req_f6dfdeeab33a4fa0a33a7443880d66ab
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1680025293462
+created: 1680024863882
+url: http://localhost:3000/api/files/
+name: "Post: files/insert"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"fileName":"testName",
+    	"fileExtension":"testExtension",
+    	"fileFormat":"testFormat",
+    	"fileDescription":"testDescription",
+    	"isActive":true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
+metaSortKey: -1680024698817
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
