@@ -1,0 +1,21 @@
+_id: req_6cf247c47cab4f5ab2963e07d9e1a6cd
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1687961167992
+created: 1687894712497
+url: http://localhost:5000/files/10264226_279303148911620_6941344004565414520_o.jpg
+name: "TestProjekt Fileupload Get: Get Single File"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680024698779.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
