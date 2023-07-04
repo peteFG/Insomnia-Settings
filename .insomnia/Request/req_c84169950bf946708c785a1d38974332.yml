@@ -1,32 +1,23 @@
-_id: req_f6dfdeeab33a4fa0a33a7443880d66ab
+_id: req_c84169950bf946708c785a1d38974332
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688466111427
-created: 1680024863882
-url: http://localhost:3000/api/files/upload
-name: "Post: files/insert"
+modified: 1688501679750
+created: 1688492410729
+url: http://localhost:3000/api/files/64a47b932786621f016edccf
+name: "Delete: Delete One"
 description: ""
-method: POST
+method: DELETE
 body:
   mimeType: multipart/form-data
-  params:
-    - name: file
-      value: ""
-      id: pair_38f6fc16b2344630b739d1715f4df743
-      type: file
-      fileName: F:\Pictures\booba.png
-parameters:
-  - id: pair_b4f04377381044bf9a83be5a5358c580
-    name: name
-    value: testName
-    description: ""
+  params: []
+parameters: []
 headers:
   - name: Content-Type
     value: multipart/form-data
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
-metaSortKey: -1680024698817
+metaSortKey: -1680024698792.3906
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
