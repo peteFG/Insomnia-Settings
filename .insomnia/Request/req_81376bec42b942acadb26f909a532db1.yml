@@ -1,31 +1,19 @@
-_id: req_f6dfdeeab33a4fa0a33a7443880d66ab
+_id: req_81376bec42b942acadb26f909a532db1
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688588811186
-created: 1680024863882
-url: http://localhost:3000/api/files/upload
-name: "Post: files/upload"
+modified: 1688593480659
+created: 1688588712345
+url: http://localhost:3000/api/files/download/64a5ceb5cda6f34eaf3eda25
+name: "Get: Download One"
 description: ""
-method: POST
+method: GET
 body:
   mimeType: multipart/form-data
   params:
-    - name: file
+    - id: pair_52358f3dddde42ff9255dd2e67899199
+      name: ""
       value: ""
-      id: pair_38f6fc16b2344630b739d1715f4df743
-      type: file
-      fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
-        data\images\splatter_background.jpg
-    - id: pair_000fc3db672145b5b7109bf00e26491d
-      name: name
-      value: Cropped Inspirational
       description: ""
-      disabled: true
-    - id: pair_910807966d32467d982df3fe28cefe20
-      name: description
-      value: A shorter version of the inspirational video
-      description: ""
-      disabled: true
 parameters: []
 headers:
   - name: Content-Type
@@ -33,7 +21,7 @@ headers:
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
-metaSortKey: -1680024698817
+metaSortKey: -1680024698793.2695
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
