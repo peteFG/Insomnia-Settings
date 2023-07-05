@@ -1,10 +1,10 @@
 _id: req_1ee54440e3314ad0ab84f2a04c3294e1
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688051861497
+modified: 1688572905517
 created: 1688051861497
 url: http://localhost:3000/api/files
-name: "Get: Get List Files"
+name: "Get: List All Files"
 description: ""
 method: GET
 body: {}

@@ -1,7 +1,7 @@
 _id: req_be288fa402044a96baa9316c0606008d
 type: Request
 parentId: fld_9dc4ccf8cea14e948ba34ad9d4d150e9
-modified: 1670600880964
+modified: 1688581002452
 created: 1668526583380
 url: http://localhost:3000/api/fundings/import
 name: "Post: fundings/import"
@@ -16,8 +16,7 @@ body:
       description: ""
       type: file
       multiline: null
-      fileName: C:\Studium\AIM Masterstudium\3.
-        Semester\Medientransparenz\Refine\fonds\refined\refined_privatrundfunkfond.csv
+      fileName: D:\dev\medien-transparenz.at\data\fundings\refined\refined-2023.csv
 parameters: []
 headers:
   - name: Content-Type

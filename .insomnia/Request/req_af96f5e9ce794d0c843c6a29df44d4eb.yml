@@ -1,15 +1,19 @@
 _id: req_af96f5e9ce794d0c843c6a29df44d4eb
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688501023111
+modified: 1688571753094
 created: 1688117049039
-url: http://localhost:3000/api/files/getOne/64a47af09bece0d87f0272b7
+url: http://localhost:3000/api/files/64a58f5e0dc53969459b5119
 name: "Get: Get One"
 description: ""
 method: GET
 body:
   mimeType: multipart/form-data
-  params: []
+  params:
+    - id: pair_52358f3dddde42ff9255dd2e67899199
+      name: ""
+      value: ""
+      description: ""
 parameters: []
 headers:
   - name: Content-Type

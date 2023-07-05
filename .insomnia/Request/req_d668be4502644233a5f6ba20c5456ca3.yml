@@ -1,19 +1,23 @@
-_id: req_4503ed1b039b44d18dcc3d33020ea94d
+_id: req_d668be4502644233a5f6ba20c5456ca3
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688051852707
-created: 1688051852707
-url: http://localhost:3000/api/files
-name: "Get: Get Get All"
+modified: 1688572491670
+created: 1688558535027
+url: http://localhost:3000/api/files/renderOne/64a5921329a294d4cd0a9691
+name: "Get: Render One"
 description: ""
 method: GET
-body: {}
+body:
+  mimeType: multipart/form-data
+  params: []
 parameters: []
-headers: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
-metaSortKey: -1680024698795.125
+metaSortKey: -1680024698792.9766
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
