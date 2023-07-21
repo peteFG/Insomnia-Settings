@@ -1,15 +1,20 @@
 _id: req_d668be4502644233a5f6ba20c5456ca3
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688593320977
+modified: 1689973624860
 created: 1688558535027
-url: http://localhost:3000/api/files/renderOne/64a5d20c0f98d74981093719
+url: http://localhost:3000/api/files/renderOne/64baf3482ee7319f3b9f0449
 name: "Get: Render One"
 description: ""
 method: GET
 body:
   mimeType: multipart/form-data
-  params: []
+  params:
+    - id: pair_8793826873f84b54a375dc41514298d8
+      name: fileId
+      value: 64b962708d94291bb64a064d
+      description: ""
+      disabled: true
 parameters: []
 headers:
   - name: Content-Type

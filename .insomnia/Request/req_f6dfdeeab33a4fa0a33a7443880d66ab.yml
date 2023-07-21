@@ -1,7 +1,7 @@
 _id: req_f6dfdeeab33a4fa0a33a7443880d66ab
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688588811186
+modified: 1689973711438
 created: 1680024863882
 url: http://localhost:3000/api/files/upload
 name: "Post: files/upload"
@@ -15,17 +15,27 @@ body:
       id: pair_38f6fc16b2344630b739d1715f4df743
       type: file
       fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
-        data\images\splatter_background.jpg
+        data\images\taking_a_summer_stroll_on_the_pier.jpg
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
-      value: Cropped Inspirational
+      value: Stroll
       description: ""
-      disabled: true
+      disabled: false
     - id: pair_910807966d32467d982df3fe28cefe20
       name: description
-      value: A shorter version of the inspirational video
+      value: Taking a summer stroll2
       description: ""
-      disabled: true
+      disabled: false
+    - id: pair_477845328cb94afa88ea511f6550d1b2
+      name: price
+      value: "250"
+      description: ""
+      disabled: false
+    - id: pair_382e436245d64877b10c83166c877904
+      name: transferId
+      value: 649dee6de974e430cb25223c
+      description: ""
+      disabled: false
 parameters: []
 headers:
   - name: Content-Type
