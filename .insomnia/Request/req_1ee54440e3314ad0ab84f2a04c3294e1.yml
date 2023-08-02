@@ -1,14 +1,107 @@
 _id: req_1ee54440e3314ad0ab84f2a04c3294e1
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1688572905517
+modified: 1690988717385
 created: 1688051861497
-url: http://localhost:3000/api/files
-name: "Get: List All Files"
+url: http://localhost:3000/api/files/getList
+name: "Get: List Files By Query"
 description: ""
 method: GET
 body: {}
-parameters: []
+parameters:
+  - id: pair_1d49577dbfa64d81834b14f475504698
+    name: filename
+    value: stro
+    description: ""
+    disabled: true
+  - id: pair_a39683d708d545319a29b8620b0f8d73
+    name: contentType
+    value: video
+    description: ""
+    disabled: true
+  - id: pair_d75bcaf6d493473b96841adacfb718c2
+    name: givenFileName
+    value: Stroll
+    description: ""
+    disabled: true
+  - id: pair_b3f4038530424df3bb5ebd4b74d0c287
+    name: limit
+    value: "1"
+    description: ""
+    disabled: true
+  - id: pair_5a58316f6dd94116b22484076f785b14
+    name: transferId
+    value: 649dee6de974e430cb25223c
+    description: ""
+    disabled: true
+  - id: pair_5180f12c646f4910b6a438dd88eac20a
+    name: transferType
+    value: "2"
+    description: ""
+    disabled: true
+  - id: pair_a807e89d51d04826a44951cf6f566504
+    name: federalState
+    value: AT-3
+    description: ""
+    disabled: true
+  - id: pair_9c4bfd327c914dd3a2fc0a61d0aeb769
+    name: fileExtension
+    value: jpg
+    description: ""
+    disabled: true
+  - id: pair_772a2e265ff0408b9893e723efde1105
+    name: fileDescription
+    value: Test desc
+    description: ""
+    disabled: true
+  - id: pair_9f1f889b41b64cf48969413bb2fd21ae
+    name: organisation
+    value: Gemeinn
+    description: ""
+    disabled: true
+  - id: pair_734d95cf4349453aad4d2e065432e591
+    name: media
+    value: "Arge "
+    description: ""
+    disabled: true
+  - id: pair_3b7d52b4b4e94155838f36793d3b14a0
+    name: amount
+    value: "10101.01"
+    description: ""
+    disabled: true
+  - id: pair_409a83ac683e4c7bb0d81a471958765e
+    name: year
+    value: "2012"
+    description: ""
+    disabled: true
+  - id: pair_3323d65e46b147d1b0809130f114f950
+    name: quarter
+    value: "3"
+    description: ""
+    disabled: true
+  - id: pair_2bf0f46f9c6d42fda7ab3cfb0950b6e3
+    name: period
+    value: "20123"
+    description: ""
+    disabled: true
+  - id: pair_5b355cc77ef841919c405d664260816e
+    name: organisationType
+    value: Company
+    description: ""
+    disabled: true
+  - id: pair_8c78c9bf00dc40588cf530bc9b410abf
+    name: price
+    value: "5"
+    description: ""
+    disabled: true
+  - id: pair_3757fc9212e74e019a929a3d1cdd8c05
+    name: sortBy
+    value: ""
+    description: ""
+  - id: pair_07df148209e54674b341b5ccc1eedf59
+    name: sortOrder
+    value: ""
+    description: ""
 headers: []
 authentication:
   type: bearer

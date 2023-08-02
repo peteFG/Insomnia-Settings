@@ -1,9 +1,9 @@
 _id: req_187bac1ffcd440d79aba8a2d00c3200f
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1689863229483
+modified: 1690227417589
 created: 1688051725785
-url: http://localhost:3000/api/files/getAllFiles
+url: http://localhost:3000/api/files/getAll
 name: "Get: Get All Files"
 description: ""
 method: GET
