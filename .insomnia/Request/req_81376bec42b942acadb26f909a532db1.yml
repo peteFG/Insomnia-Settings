@@ -1,23 +1,17 @@
 _id: req_81376bec42b942acadb26f909a532db1
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1690228030962
+modified: 1692181810814
 created: 1688588712345
-url: http://localhost:3000/api/files/download/64bed509e26b9414c312f543
+url: http://localhost:3000/api/files/download/64dc927c5cfa48a873e9f35f
 name: "Get: Download One"
 description: ""
 method: GET
 body:
-  mimeType: multipart/form-data
-  params:
-    - id: pair_52358f3dddde42ff9255dd2e67899199
-      name: ""
-      value: ""
-      description: ""
+  mimeType: application/json
+  text: ""
 parameters: []
-headers:
-  - name: Content-Type
-    value: multipart/form-data
+headers: []
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A

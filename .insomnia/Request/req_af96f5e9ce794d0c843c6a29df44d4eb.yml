@@ -1,9 +1,9 @@
 _id: req_af96f5e9ce794d0c843c6a29df44d4eb
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1690228024872
+modified: 1692003268986
 created: 1688117049039
-url: http://localhost:3000/api/files/64bed509e26b9414c312f543
+url: http://localhost:3000/api/files/64d5ee6517e2a0c875ae4baf
 name: "Get: Get One"
 description: ""
 method: GET

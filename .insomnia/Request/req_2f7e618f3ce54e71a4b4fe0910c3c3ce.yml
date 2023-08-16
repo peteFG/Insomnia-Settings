@@ -1,0 +1,35 @@
+_id: req_2f7e618f3ce54e71a4b4fe0910c3c3ce
+type: Request
+parentId: fld_938748f678994171a67bca0fec92d56c
+modified: 1692191093402
+created: 1692191054602
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/uploadZip
+name: "Post: files/upload zipfile"
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: file
+      value: ""
+      id: pair_38f6fc16b2344630b739d1715f4df743
+      type: file
+      fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
+        data\zip\images.zip
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: Insomnia/2023.5.2
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxNzczNTEsImV4cCI6MTY5MjIwNjE1MX0.U3lcMMGDzCvNjuaZkzy4AtueGOpo8dsc6ogm5s86ONM
+metaSortKey: -1680024698809.1875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

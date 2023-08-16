@@ -1,0 +1,23 @@
+_id: req_7c8271c9c2f4494eb3d53d3386a85581
+type: Request
+parentId: fld_f6f37e76d77845fd91d117ede2c39633
+modified: 1692196272921
+created: 1692173601363
+url: https://medientransparenz.ima.fh-joanneum.at/api/zipcodes?page=1&size=10&sortBy=&sortOrder=asc
+name: ZipCodes GetList Staging
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxNzM3NDUsImV4cCI6MTY5MjIwMjU0NX0.FjRYfLjxiPkMonKplVW0ar-3lCNS4YFkMGGTABsTczc
+metaSortKey: -1680024698807.2344
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

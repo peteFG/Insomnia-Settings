@@ -1,0 +1,27 @@
+_id: req_e0f36e35e56142e5b361d16300e35040
+type: Request
+parentId: fld_bfa0adf7fd7046199e6383df61670b2d
+modified: 1692173743971
+created: 1692173663723
+url: https://medientransparenz.ima.fh-joanneum.at/api/login
+name: Login Staging Admin
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"email":"test@feldgrill.at","password":"12345678"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.2
+authentication: {}
+metaSortKey: -1692173663723
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

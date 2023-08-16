@@ -1,9 +1,9 @@
-_id: req_1ee54440e3314ad0ab84f2a04c3294e1
+_id: req_806af70b04e443978445e78c30357605
 type: Request
-parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692182613968
-created: 1688051861497
-url: http://localhost:3000/api/files/getList
+parentId: fld_938748f678994171a67bca0fec92d56c
+modified: 1692192916636
+created: 1692191054589
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/getList
 name: "Get: List Files By Query"
 description: ""
 method: GET
@@ -111,23 +111,23 @@ parameters:
     disabled: true
   - id: pair_adca74a05ffd4420b15dd573a90b25b4
     name: zipFileOrigin
-    value: 64db86dae4cf7037fd6c2b9d
+    value: 64dc9583c2402e646c664c16
     description: ""
     disabled: true
   - id: pair_58f2541c25bf4db8b73698aa0d0e4859
     name: page
     value: "1"
     description: ""
-    disabled: false
+    disabled: true
   - id: pair_f7e1dee593444428929ee78b28d6ea11
     name: size
-    value: "11"
+    value: "10"
     description: ""
     disabled: true
 headers: []
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5MjE4MjM0MSwiZXhwIjoxNjkyMjExMTQxfQ.GQl7w_IseZmihen_iGOzwbNITfMgubLBFiGerYt0s80
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxOTEyMTAsImV4cCI6MTY5MjIyMDAxMH0.46WaSMtT-0LgSXab7EsmXGC-q0RwJxa_TvQtRm0PBRo
   disabled: false
 metaSortKey: -1680024698801.375
 isPrivate: false

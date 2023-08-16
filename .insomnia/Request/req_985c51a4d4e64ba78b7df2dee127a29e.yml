@@ -1,15 +1,35 @@
-_id: req_c84169950bf946708c785a1d38974332
+_id: req_985c51a4d4e64ba78b7df2dee127a29e
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692016056308
-created: 1688492410729
-url: http://localhost:3000/api/files/64da1d4eb45ca6120edf7a24
-name: "Delete: Delete One"
+modified: 1692020086922
+created: 1692017550430
+url: http://localhost:3000/api/files/64da235fa14f3cc9d88065e4
+name: "Patch: update file"
 description: ""
-method: DELETE
+method: PATCH
 body:
   mimeType: multipart/form-data
-  params: []
+  params:
+    - id: pair_ebe2e01ffb74456cb8c3c7d0ade4e183
+      name: name
+      value: newName
+      description: ""
+      disabled: true
+    - id: pair_068d097c2f6b48c9b8998a4ec4ade19c
+      name: transferId
+      value: ""
+      description: ""
+      disabled: true
+    - id: pair_acc8131ad4cf4e24877b2518cbf4ec82
+      name: description
+      value: newDesc
+      description: ""
+      disabled: false
+    - id: pair_664685ecb2d94f5ebe4adc14d6f2dda4
+      name: price
+      value: "69"
+      description: ""
+      disabled: true
 parameters: []
 headers:
   - name: Content-Type
@@ -17,8 +37,7 @@ headers:
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJhZG1pbiIsImdyb3VwIiwicGF5ZXIiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjkxOTk5MTUxLCJleHAiOjE2OTIwMjc5NTF9.Mo5p9gxvW-cu1MyJqm03aRClSCwXWAJ4m3n_9iKmB8k
-  disabled: false
-metaSortKey: -1680024698792.3906
+metaSortKey: -1680024698805.2812
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

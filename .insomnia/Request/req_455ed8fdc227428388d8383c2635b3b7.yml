@@ -1,9 +1,9 @@
-_id: req_c84169950bf946708c785a1d38974332
+_id: req_455ed8fdc227428388d8383c2635b3b7
 type: Request
-parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692016056308
-created: 1688492410729
-url: http://localhost:3000/api/files/64da1d4eb45ca6120edf7a24
+parentId: fld_f6f37e76d77845fd91d117ede2c39633
+modified: 1692177504989
+created: 1692177275546
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/64da1d4eb45ca6120edf7a24
 name: "Delete: Delete One"
 description: ""
 method: DELETE

@@ -1,9 +1,9 @@
-_id: req_d668be4502644233a5f6ba20c5456ca3
+_id: req_08e589222ab04919977b1d50558d769e
 type: Request
-parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1691842850539
-created: 1688558535027
-url: http://localhost:3000/api/files/renderOne/64d776eed0e03315524b07f5
+parentId: fld_f6f37e76d77845fd91d117ede2c39633
+modified: 1692177508075
+created: 1692177275548
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/renderOne/64d776eed0e03315524b07f5
 name: "Get: Render One"
 description: ""
 method: GET

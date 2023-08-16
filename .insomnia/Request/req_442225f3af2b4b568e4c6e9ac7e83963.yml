@@ -1,28 +1,20 @@
-_id: req_d668be4502644233a5f6ba20c5456ca3
+_id: req_442225f3af2b4b568e4c6e9ac7e83963
 type: Request
-parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1691842850539
-created: 1688558535027
-url: http://localhost:3000/api/files/renderOne/64d776eed0e03315524b07f5
-name: "Get: Render One"
+parentId: fld_f6f37e76d77845fd91d117ede2c39633
+modified: 1692177493648
+created: 1692177275537
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/getAll
+name: "Get: Get All Files"
 description: ""
 method: GET
-body:
-  mimeType: multipart/form-data
-  params:
-    - id: pair_8793826873f84b54a375dc41514298d8
-      name: fileId
-      value: 64b962708d94291bb64a064d
-      description: ""
-      disabled: true
+body: {}
 parameters: []
-headers:
-  - name: Content-Type
-    value: multipart/form-data
+headers: []
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
-metaSortKey: -1680024698792.9766
+  disabled: true
+metaSortKey: -1680024698799.8125
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

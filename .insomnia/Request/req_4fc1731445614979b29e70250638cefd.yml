@@ -1,9 +1,9 @@
-_id: req_f6dfdeeab33a4fa0a33a7443880d66ab
+_id: req_4fc1731445614979b29e70250638cefd
 type: Request
-parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692182346558
-created: 1680024863882
-url: http://localhost:3000/api/files/upload
+parentId: fld_938748f678994171a67bca0fec92d56c
+modified: 1692191745967
+created: 1692191054583
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/upload
 name: "Post: files/upload"
 description: ""
 method: POST
@@ -15,15 +15,15 @@ body:
       id: pair_38f6fc16b2344630b739d1715f4df743
       type: file
       fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
-        data\videos\Cropped.mp4
+        data\videos\pexels-vision-plug-15698543 (1080p).mp4
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
-      value: Medium Large Video
+      value: Small Video
       description: ""
       disabled: false
     - id: pair_910807966d32467d982df3fe28cefe20
       name: description
-      value: Medium Large Vid for testing purposes
+      value: Small Video for Testing Purposes
       description: ""
       disabled: false
     - id: pair_477845328cb94afa88ea511f6550d1b2
@@ -33,7 +33,7 @@ body:
       disabled: false
     - id: pair_382e436245d64877b10c83166c877904
       name: transferId
-      value: 649dee6de974e430cb25232e
+      value: 648ae42d766c7d53f9d02f1f
       description: ""
       disabled: false
 parameters: []
@@ -44,7 +44,7 @@ headers:
     value: Insomnia/2023.5.2
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5MjE4MjM0MSwiZXhwIjoxNjkyMjExMTQxfQ.GQl7w_IseZmihen_iGOzwbNITfMgubLBFiGerYt0s80
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxOTEyMTAsImV4cCI6MTY5MjIyMDAxMH0.46WaSMtT-0LgSXab7EsmXGC-q0RwJxa_TvQtRm0PBRo
 metaSortKey: -1680024698817
 isPrivate: false
 settingStoreCookies: true

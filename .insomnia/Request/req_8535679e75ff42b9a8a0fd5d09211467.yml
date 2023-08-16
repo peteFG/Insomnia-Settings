@@ -1,0 +1,27 @@
+_id: req_8535679e75ff42b9a8a0fd5d09211467
+type: Request
+parentId: fld_938748f678994171a67bca0fec92d56c
+modified: 1692192926482
+created: 1692191054600
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/download/64dcca3ece289f68ccb13296
+name: "Get: Download One"
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxNzczNTEsImV4cCI6MTY5MjIwNjE1MX0.U3lcMMGDzCvNjuaZkzy4AtueGOpo8dsc6ogm5s86ONM
+metaSortKey: -1680024698793.2695
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

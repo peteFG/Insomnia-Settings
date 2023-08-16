@@ -1,20 +1,19 @@
-_id: req_d668be4502644233a5f6ba20c5456ca3
+_id: req_a549428b04274f8e90510a749d7e60db
 type: Request
-parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1691842850539
-created: 1688558535027
-url: http://localhost:3000/api/files/renderOne/64d776eed0e03315524b07f5
-name: "Get: Render One"
+parentId: fld_938748f678994171a67bca0fec92d56c
+modified: 1692191080553
+created: 1692191054592
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/64d5ee6517e2a0c875ae4baf
+name: "Get: Get One"
 description: ""
 method: GET
 body:
   mimeType: multipart/form-data
   params:
-    - id: pair_8793826873f84b54a375dc41514298d8
-      name: fileId
-      value: 64b962708d94291bb64a064d
+    - id: pair_52358f3dddde42ff9255dd2e67899199
+      name: ""
+      value: ""
       description: ""
-      disabled: true
 parameters: []
 headers:
   - name: Content-Type
@@ -22,7 +21,7 @@ headers:
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
-metaSortKey: -1680024698792.9766
+metaSortKey: -1680024698793.5625
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

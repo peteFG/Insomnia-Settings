@@ -1,9 +1,9 @@
 _id: fld_17c96662bfd94e0a9debfaf9b82739fe
 type: RequestGroup
 parentId: wrk_c7d53b677c32432c9a7997347f4013c0
-modified: 1668526567053
+modified: 1692177253245
 created: 1668526567053
-name: Medientransparenz
+name: Medientransparenz Lokal
 description: ""
 environment: {}
 environmentPropertyOrder: null

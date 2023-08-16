@@ -1,21 +1,21 @@
-_id: req_fb7cd5c018f64ab2aef8b8a68819a102
+_id: req_b245369af4b446bba2258581c8aa018e
 type: Request
-parentId: fld_5c5540de84674138a455d79edb8316b3
-modified: 1692173712043
-created: 1668526989878
-url: http://localhost:3000/api/login
-name: Login - Admin Role
+parentId: fld_57ef0184220343cca4e428ae3c58b20c
+modified: 1692191167041
+created: 1692191138530
+url: https://medientransparenz.kub3.fh-joanneum.at/api/login
+name: Login - Payer Role
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: '{"email":"p.feldgrill@gmail.com","password":"12345678"}'
+  text: '{"email":"payer@gmail.com","password":"12345678"}'
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
 authentication: {}
-metaSortKey: -1669551033505.5
+metaSortKey: -1669551033605.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

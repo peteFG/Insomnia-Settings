@@ -1,0 +1,27 @@
+_id: req_3b4eb5633a894052a1760af4059df018
+type: Request
+parentId: fld_f6f37e76d77845fd91d117ede2c39633
+modified: 1692177822423
+created: 1692177275551
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/download/64dc958bc2402e646c664d4d
+name: "Get: Download One"
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxNzczNTEsImV4cCI6MTY5MjIwNjE1MX0.U3lcMMGDzCvNjuaZkzy4AtueGOpo8dsc6ogm5s86ONM
+metaSortKey: -1680024698793.2695
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

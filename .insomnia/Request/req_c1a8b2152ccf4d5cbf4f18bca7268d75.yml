@@ -1,24 +1,30 @@
-_id: req_c84169950bf946708c785a1d38974332
+_id: req_c1a8b2152ccf4d5cbf4f18bca7268d75
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692016056308
-created: 1688492410729
-url: http://localhost:3000/api/files/64da1d4eb45ca6120edf7a24
-name: "Delete: Delete One"
+modified: 1692021294045
+created: 1692020250540
+url: http://localhost:3000/api/files/64da235fa14f3cc9d88065e4
+name: "Patch: update file 2"
 description: ""
-method: DELETE
+method: PATCH
 body:
-  mimeType: multipart/form-data
-  params: []
+  mimeType: application/json
+  text: |-
+    {
+        "name": "newdddName",
+        "description": "newDescription2",
+        "price": 169,
+    		"transferId": "649dee6de974e430cb25220a"
+    }
 parameters: []
 headers:
   - name: Content-Type
-    value: multipart/form-data
+    value: application/json
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJhZG1pbiIsImdyb3VwIiwicGF5ZXIiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjkxOTk5MTUxLCJleHAiOjE2OTIwMjc5NTF9.Mo5p9gxvW-cu1MyJqm03aRClSCwXWAJ4m3n_9iKmB8k
   disabled: false
-metaSortKey: -1680024698792.3906
+metaSortKey: -1680024698803.3281
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

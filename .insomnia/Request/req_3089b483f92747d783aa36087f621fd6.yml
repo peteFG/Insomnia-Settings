@@ -1,21 +1,23 @@
-_id: req_fb7cd5c018f64ab2aef8b8a68819a102
+_id: req_3089b483f92747d783aa36087f621fd6
 type: Request
-parentId: fld_5c5540de84674138a455d79edb8316b3
-modified: 1692173712043
-created: 1668526989878
+parentId: fld_57ef0184220343cca4e428ae3c58b20c
+modified: 1692191138535
+created: 1692191138535
 url: http://localhost:3000/api/login
-name: Login - Admin Role
+name: Login - Normal User
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: '{"email":"p.feldgrill@gmail.com","password":"12345678"}'
+  text: '{"email":"normal@gmail.com","password":"12345678"}'
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.2
 authentication: {}
-metaSortKey: -1669551033505.5
+metaSortKey: -1669551033530.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
