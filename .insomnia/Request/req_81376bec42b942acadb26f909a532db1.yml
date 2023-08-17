@@ -1,9 +1,9 @@
 _id: req_81376bec42b942acadb26f909a532db1
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692181810814
+modified: 1692293802659
 created: 1688588712345
-url: http://localhost:3000/api/files/download/64dc927c5cfa48a873e9f35f
+url: http://localhost:3000/api/files/download/64de5aa4d9ada314c3188ffd
 name: "Get: Download One"
 description: ""
 method: GET
@@ -14,7 +14,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5MjI2MTc2OSwiZXhwIjoxNjkyMjkwNTY5fQ.SDfkyofK7wmLu7jhlpg5Q8p5QAZDrdanY95Qv0bJaG8
 metaSortKey: -1680024698793.2695
 isPrivate: false
 settingStoreCookies: true

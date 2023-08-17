@@ -1,7 +1,7 @@
 _id: req_f6dfdeeab33a4fa0a33a7443880d66ab
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692182346558
+modified: 1692293795007
 created: 1680024863882
 url: http://localhost:3000/api/files/upload
 name: "Post: files/upload"
@@ -15,25 +15,26 @@ body:
       id: pair_38f6fc16b2344630b739d1715f4df743
       type: file
       fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
-        data\videos\Cropped.mp4
+        data\pdf\Comparative Analysis of Automated Load Testing Tools Jmeter,
+        Visual Studio, Load Runner, Siege.pdf
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
-      value: Medium Large Video
+      value: Comparative Analysis of Automated Load Testing Tools Jmeter
       description: ""
       disabled: false
     - id: pair_910807966d32467d982df3fe28cefe20
       name: description
-      value: Medium Large Vid for testing purposes
+      value: An analysis of different tools such as JMeter which are used for testing.
       description: ""
       disabled: false
     - id: pair_477845328cb94afa88ea511f6550d1b2
       name: price
-      value: "125000"
+      value: "100000000"
       description: ""
       disabled: false
     - id: pair_382e436245d64877b10c83166c877904
       name: transferId
-      value: 649dee6de974e430cb25232e
+      value: 649def3fe974e430cb26b965
       description: ""
       disabled: false
 parameters: []
@@ -44,7 +45,7 @@ headers:
     value: Insomnia/2023.5.2
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5MjE4MjM0MSwiZXhwIjoxNjkyMjExMTQxfQ.GQl7w_IseZmihen_iGOzwbNITfMgubLBFiGerYt0s80
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5MjI5Mzc4OCwiZXhwIjoxNjkyMzIyNTg4fQ.7kZVfqwFDyIQc-rB2iSOGyW9SC7yO0KrId5kvDRXW2M
 metaSortKey: -1680024698817
 isPrivate: false
 settingStoreCookies: true
