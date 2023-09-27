@@ -1,0 +1,28 @@
+_id: req_1fc935328dbe492d9389310b1eebc247
+type: Request
+parentId: fld_938748f678994171a67bca0fec92d56c
+modified: 1692785035872
+created: 1692784823653
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/local/deleteAll
+name: "Delete: Delete All Local Test DB"
+description: ""
+method: DELETE
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5Mjc4NDkyNSwiZXhwIjoxNjkyODEzNzI1fQ.RjfxOCgs48Njn5acz7G5050xPzDJlMRDMccXq1Se0MY
+  disabled: false
+metaSortKey: -1680024698798.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

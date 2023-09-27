@@ -1,0 +1,28 @@
+_id: req_70b27ab029164921b81f979b1f3871e8
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1692777511143
+created: 1692775977647
+url: http://localhost:3000/api/files/local/deleteAll
+name: "Delete: Delete All Local"
+description: ""
+method: DELETE
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJwYXllciJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTI3NzU3MzYsImV4cCI6MTY5MjgwNDUzNn0.hTKlTzcsxK0N_hY1bC0TLUKXiDDKPr1jzVSxNUU8nJU
+  disabled: false
+metaSortKey: -1670860241747.6113
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_d898cc707c6c4b708f4f6543f611d201
+type: Request
+parentId: fld_938748f678994171a67bca0fec92d56c
+modified: 1692784879382
+created: 1692784814372
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/local/getAll
+name: "Get: Get All Local Test DB"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_8793826873f84b54a375dc41514298d8
+      name: filename
+      value: 64e4d867ce4745b721dd9295
+      description: ""
+      disabled: true
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
+  disabled: true
+metaSortKey: -1680024698800.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

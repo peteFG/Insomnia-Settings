@@ -1,7 +1,7 @@
 _id: req_1ee54440e3314ad0ab84f2a04c3294e1
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692301171101
+modified: 1695758272011
 created: 1688051861497
 url: http://localhost:3000/api/files/getList
 name: "Get: List Files By Query"
@@ -11,14 +11,14 @@ body: {}
 parameters:
   - id: pair_1d49577dbfa64d81834b14f475504698
     name: filename
-    value: Cropped
+    value: Cherry
     description: ""
     disabled: true
   - id: pair_a39683d708d545319a29b8620b0f8d73
     name: contentType
-    value: image
+    value: audio
     description: ""
-    disabled: false
+    disabled: true
   - id: pair_d75bcaf6d493473b96841adacfb718c2
     name: givenFileName
     value: Stroll
@@ -56,12 +56,12 @@ parameters:
     disabled: true
   - id: pair_9f1f889b41b64cf48969413bb2fd21ae
     name: organisation
-    value: gemein
+    value: wien
     description: ""
-    disabled: true
+    disabled: false
   - id: pair_734d95cf4349453aad4d2e065432e591
     name: media
-    value: "Arge "
+    value: orf
     description: ""
     disabled: true
   - id: pair_3b7d52b4b4e94155838f36793d3b14a0
@@ -111,7 +111,7 @@ parameters:
     disabled: true
   - id: pair_adca74a05ffd4420b15dd573a90b25b4
     name: zipFileOrigin
-    value: 64de3331fc2aae421db7a679
+    value: 64df27cc94b71ff2717e33b8
     description: ""
     disabled: true
   - id: pair_58f2541c25bf4db8b73698aa0d0e4859
@@ -132,6 +132,26 @@ parameters:
   - id: pair_5295fa3e735d45cb86f3038d1090c848
     name: to
     value: "20232"
+    description: ""
+    disabled: true
+  - id: pair_623422ed242643c195298cfdc9d9aba0
+    name: priceFrom
+    value: "100"
+    description: ""
+    disabled: true
+  - id: pair_f1494f781f244a189e34c0faa5266f74
+    name: priceTo
+    value: "150"
+    description: ""
+    disabled: true
+  - id: pair_4b20819e096a49cd81ca055926059899
+    name: adActionPriceFrom
+    value: "90"
+    description: ""
+    disabled: true
+  - id: pair_1f926b5729b94395b4eb5da4504d5f99
+    name: adActionPriceTo
+    value: "92"
     description: ""
     disabled: true
 headers: []

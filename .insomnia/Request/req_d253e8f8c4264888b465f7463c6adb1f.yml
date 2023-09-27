@@ -1,7 +1,7 @@
 _id: req_d253e8f8c4264888b465f7463c6adb1f
 type: Request
 parentId: fld_f6f37e76d77845fd91d117ede2c39633
-modified: 1692182836340
+modified: 1695021616116
 created: 1692177275540
 url: https://medientransparenz.ima.fh-joanneum.at/api/files/getList
 name: "Get: List Files By Query"
@@ -16,7 +16,7 @@ parameters:
     disabled: true
   - id: pair_a39683d708d545319a29b8620b0f8d73
     name: contentType
-    value: image
+    value: video
     description: ""
     disabled: false
   - id: pair_d75bcaf6d493473b96841adacfb718c2
@@ -46,7 +46,7 @@ parameters:
     disabled: true
   - id: pair_9c4bfd327c914dd3a2fc0a61d0aeb769
     name: fileExtension
-    value: jpg
+    value: wmv
     description: ""
     disabled: true
   - id: pair_772a2e265ff0408b9893e723efde1105

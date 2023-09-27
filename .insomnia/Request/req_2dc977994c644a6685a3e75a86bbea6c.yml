@@ -1,0 +1,31 @@
+_id: req_2dc977994c644a6685a3e75a86bbea6c
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1692786012937
+created: 1692718945870
+url: http://localhost:3000/api/files/local/download
+name: "Get: Download One Local"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters:
+  - id: pair_22fd920ac48046eca959abb28982cff4
+    name: filename
+    value: 777906037d60bdc8feb3e482ce9db90a.mp4
+    description: ""
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjcwNjAwODcwLCJleHAiOjE2NzA2Mjk2NzB9.-Yv5ItME14Cyjbqmh0yn41VbSIqjqoIzwSBLmpruA2A
+metaSortKey: -1674787866173.9453
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,7 +1,7 @@
 _id: req_03ab199beaed40f492729e2c08fb92b7
 type: Request
 parentId: fld_f6f37e76d77845fd91d117ede2c39633
-modified: 1692182212549
+modified: 1695021471893
 created: 1692177275535
 url: https://medientransparenz.ima.fh-joanneum.at/api/files/upload
 name: "Post: files/upload"
@@ -14,8 +14,9 @@ body:
       value: ""
       id: pair_38f6fc16b2344630b739d1715f4df743
       type: file
-      fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
-        data\videos\Cropped.mp4
+      fileName: C:\Users\pfeld\OneDrive - FH JOANNEUM\AIM
+        Masterstudium\Masterarbeit\dummy
+        data\videos\file_example_AVI_1920_2_3MG.avi
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
       value: Medium Large Video
@@ -44,7 +45,7 @@ headers:
     value: Insomnia/2023.5.2
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxNzczNTEsImV4cCI6MTY5MjIwNjE1MX0.U3lcMMGDzCvNjuaZkzy4AtueGOpo8dsc6ogm5s86ONM
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NTAyMTQ2MiwiZXhwIjoxNjk1MDUwMjYyfQ._Rnbq1qLlzBCL9aOoCCWQm07ww5tooeVtQCwTFXbIuo
 metaSortKey: -1680024698817
 isPrivate: false
 settingStoreCookies: true

@@ -1,9 +1,9 @@
 _id: req_455ed8fdc227428388d8383c2635b3b7
 type: Request
 parentId: fld_f6f37e76d77845fd91d117ede2c39633
-modified: 1692177504989
+modified: 1695021670107
 created: 1692177275546
-url: https://medientransparenz.ima.fh-joanneum.at/api/files/64da1d4eb45ca6120edf7a24
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/64e0eef0d37b11ec842259cd
 name: "Delete: Delete One"
 description: ""
 method: DELETE
@@ -16,7 +16,7 @@ headers:
     value: multipart/form-data
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJhZG1pbiIsImdyb3VwIiwicGF5ZXIiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjkxOTk5MTUxLCJleHAiOjE2OTIwMjc5NTF9.Mo5p9gxvW-cu1MyJqm03aRClSCwXWAJ4m3n_9iKmB8k
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NTAyMTQ2MiwiZXhwIjoxNjk1MDUwMjYyfQ._Rnbq1qLlzBCL9aOoCCWQm07ww5tooeVtQCwTFXbIuo
   disabled: false
 metaSortKey: -1680024698792.3906
 isPrivate: false

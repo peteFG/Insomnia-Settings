@@ -1,20 +1,18 @@
 _id: req_c1a8b2152ccf4d5cbf4f18bca7268d75
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692021294045
+modified: 1695841898693
 created: 1692020250540
-url: http://localhost:3000/api/files/64da235fa14f3cc9d88065e4
-name: "Patch: update file 2"
+url: http://localhost:3000/api/files/651317edabddd0d9fc04ce96
+name: "Patch: update file remove adAction"
 description: ""
 method: PATCH
 body:
   mimeType: application/json
   text: |-
     {
-        "name": "newdddName",
-        "description": "newDescription2",
-        "price": 169,
-    		"transferId": "649dee6de974e430cb25220a"
+    		"adActions": "remove",
+    		"transferId": "63964a9581fe55cd38ddf339"
     }
 parameters: []
 headers:
@@ -22,7 +20,7 @@ headers:
     value: application/json
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJhZG1pbiIsImdyb3VwIiwicGF5ZXIiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjkxOTk5MTUxLCJleHAiOjE2OTIwMjc5NTF9.Mo5p9gxvW-cu1MyJqm03aRClSCwXWAJ4m3n_9iKmB8k
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiLCJwYXllciJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTU4MjIyNzUsImV4cCI6MTY5NTg1MTA3NX0.gQ6YcfAXsceyH4gGjTXlLaAx9gXRpicIrsCvQlYAc2A
   disabled: false
 metaSortKey: -1680024698803.3281
 isPrivate: false

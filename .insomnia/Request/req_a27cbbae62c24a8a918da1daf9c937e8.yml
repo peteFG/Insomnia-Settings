@@ -1,43 +1,30 @@
-_id: req_985c51a4d4e64ba78b7df2dee127a29e
+_id: req_a27cbbae62c24a8a918da1daf9c937e8
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1695822404288
-created: 1692017550430
+modified: 1695845245380
+created: 1695837419557
 url: http://localhost:3000/api/files/651317edabddd0d9fc04ce96
-name: "Patch: update file"
+name: "Patch: update file add adAction"
 description: ""
 method: PATCH
 body:
-  mimeType: multipart/form-data
-  params:
-    - id: pair_ebe2e01ffb74456cb8c3c7d0ade4e183
-      name: filename
-      value: newName.jpg
-      description: ""
-      disabled: false
-    - id: pair_068d097c2f6b48c9b8998a4ec4ade19c
-      name: transferId
-      value: ""
-      description: ""
-      disabled: true
-    - id: pair_acc8131ad4cf4e24877b2518cbf4ec82
-      name: description
-      value: newDesc
-      description: ""
-      disabled: true
-    - id: pair_664685ecb2d94f5ebe4adc14d6f2dda4
-      name: price
-      value: "69"
-      description: ""
-      disabled: true
+  mimeType: application/json
+  text: |-
+    {
+        "filename": "Cherry.jpg",
+    		"adActions": "add",
+    		"price": 900,
+    		"transferId": "63964a9681fe55cd38ddf3a7"
+    }
 parameters: []
 headers:
   - name: Content-Type
-    value: multipart/form-data
+    value: application/json
 authentication:
   type: bearer
   token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiLCJwYXllciJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTU4MjIyNzUsImV4cCI6MTY5NTg1MTA3NX0.gQ6YcfAXsceyH4gGjTXlLaAx9gXRpicIrsCvQlYAc2A
-metaSortKey: -1680024698805.2812
+  disabled: false
+metaSortKey: -1680024698802.3516
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

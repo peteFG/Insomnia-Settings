@@ -1,10 +1,10 @@
-_id: req_4fc1731445614979b29e70250638cefd
+_id: req_027ec78ce1eb458991204d1dd332fede
 type: Request
 parentId: fld_938748f678994171a67bca0fec92d56c
-modified: 1695020366836
-created: 1692191054583
-url: https://medientransparenz.kub3.fh-joanneum.at/api/files/upload
-name: "Post: files/upload"
+modified: 1692784938530
+created: 1692784842625
+url: https://medientransparenz.kub3.fh-joanneum.at/api/files/local/upload
+name: "Post: files/uploadLocal Test DB"
 description: ""
 method: POST
 body:
@@ -16,27 +16,27 @@ body:
       type: file
       fileName: C:\Users\pfeld\OneDrive - FH JOANNEUM\AIM
         Masterstudium\Masterarbeit\dummy
-        data\videos\file_example_AVI_1920_2_3MG.avi
+        data\images\a_room_at_a_random_coffee_shop_591692.jpg
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
-      value: Small Video
+      value: Test Video avi
       description: ""
-      disabled: false
+      disabled: true
     - id: pair_910807966d32467d982df3fe28cefe20
       name: description
-      value: Small Video for Testing Purposes
+      value: An analysis of different tools such as JMeter which are used for testing.
       description: ""
-      disabled: false
+      disabled: true
     - id: pair_477845328cb94afa88ea511f6550d1b2
       name: price
-      value: "125000"
+      value: "100000000"
       description: ""
-      disabled: false
+      disabled: true
     - id: pair_382e436245d64877b10c83166c877904
       name: transferId
-      value: 648ae42d766c7d53f9d02f1f
+      value: 649dee6de974e430cb2522c9
       description: ""
-      disabled: false
+      disabled: true
 parameters: []
 headers:
   - name: Content-Type
@@ -45,8 +45,8 @@ headers:
     value: Insomnia/2023.5.2
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTIxOTEyMTAsImV4cCI6MTY5MjIyMDAxMH0.46WaSMtT-0LgSXab7EsmXGC-q0RwJxa_TvQtRm0PBRo
-metaSortKey: -1680024698817
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5Mjc4NDkyNSwiZXhwIjoxNjkyODEzNzI1fQ.RjfxOCgs48Njn5acz7G5050xPzDJlMRDMccXq1Se0MY
+metaSortKey: -1680024698813.0938
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
