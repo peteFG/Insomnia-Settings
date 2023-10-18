@@ -1,0 +1,34 @@
+_id: req_127311ce3466464ba68a07d1ccc5ba0c
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1693044619583
+created: 1692982296367
+url: http://localhost:3000/api/files/local/download
+name: "Get: files/download LOCAL"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters:
+  - id: pair_c64018b1c73343e885a809e2d07c4854
+    name: filename
+    value: 03f78713d9c31b9a2d59bf7ed5facda5.jpg
+    description: ""
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: Insomnia/2023.5.2
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJwYXllciJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTI3MDY1NjEsImV4cCI6MTY5MjczNTM2MX0.H4WxQulusDdbY0Nth6_zrHAgD8jzsyXty3Unvp8N4TE
+  disabled: true
+metaSortKey: -1674787866148.9453
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

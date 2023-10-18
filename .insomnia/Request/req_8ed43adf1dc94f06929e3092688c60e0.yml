@@ -1,0 +1,30 @@
+_id: req_8ed43adf1dc94f06929e3092688c60e0
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1692982384758
+created: 1692982366286
+url: http://localhost:3000/api/files/local/getAll
+name: "Get: files/get ALL LOCAL"
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: Insomnia/2023.5.2
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJwYXllciJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTI3MDY1NjEsImV4cCI6MTY5MjczNTM2MX0.H4WxQulusDdbY0Nth6_zrHAgD8jzsyXty3Unvp8N4TE
+  disabled: true
+metaSortKey: -1673478658013.084
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,145 @@
+_id: req_f49c35d1c6c04e42b65ce53e3b031553
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1693647655880
+created: 1693647538853
+url: http://localhost:3000/api/files/getList?sortBy=uploadDate&sortOrder=desc&orgGroupType=64f2ff2fdb6c61f3d664ae8e&orgGroups=Boulevard
+  2 (Tageszeitungen)
+name: "Get: List Files By Queryd"
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_1d49577dbfa64d81834b14f475504698
+    name: filename
+    value: Cropped
+    description: ""
+    disabled: true
+  - id: pair_a39683d708d545319a29b8620b0f8d73
+    name: contentType
+    value: video
+    description: ""
+    disabled: true
+  - id: pair_d75bcaf6d493473b96841adacfb718c2
+    name: givenFileName
+    value: Stroll
+    description: ""
+    disabled: true
+  - id: pair_b3f4038530424df3bb5ebd4b74d0c287
+    name: limit
+    value: "1"
+    description: ""
+    disabled: true
+  - id: pair_5a58316f6dd94116b22484076f785b14
+    name: transferId
+    value: 649dee6de974e430cb25223c
+    description: ""
+    disabled: true
+  - id: pair_9f1f889b41b64cf48969413bb2fd21ae
+    name: organisation
+    value: Patent
+    description: ""
+    disabled: true
+  - id: pair_734d95cf4349453aad4d2e065432e591
+    name: media
+    value: link
+    description: ""
+    disabled: true
+  - id: pair_2bf0f46f9c6d42fda7ab3cfb0950b6e3
+    name: period
+    value: "20123"
+    description: ""
+    disabled: true
+  - id: pair_3757fc9212e74e019a929a3d1cdd8c05
+    name: sortBy
+    value: metadata.transfer.organisation
+    description: ""
+    disabled: true
+  - id: pair_07df148209e54674b341b5ccc1eedf59
+    name: sortOrder
+    value: desc
+    description: ""
+    disabled: true
+  - id: pair_57f15f40f4904fe88e3c90892558f448
+    name: ownerId
+    value: 64d8c6d110d3ab90b0b5bc3e
+    description: ""
+    disabled: true
+  - id: pair_adca74a05ffd4420b15dd573a90b25b4
+    name: zipFileOrigin
+    value: 64de3331fc2aae421db7a679
+    description: ""
+    disabled: true
+  - id: pair_58f2541c25bf4db8b73698aa0d0e4859
+    name: page
+    value: "1"
+    description: ""
+    disabled: true
+  - id: pair_f7e1dee593444428929ee78b28d6ea11
+    name: size
+    value: "100"
+    description: ""
+    disabled: true
+  - id: pair_e506d5269d094f5991b7e4735e901d4a
+    name: from
+    value: "20114"
+    description: ""
+    disabled: true
+  - id: pair_5295fa3e735d45cb86f3038d1090c848
+    name: to
+    value: "20232"
+    description: ""
+    disabled: true
+  - id: pair_d05063051b664609aaf72bf636ff2e69
+    name: priceFrom
+    value: "1"
+    description: ""
+    disabled: true
+  - id: pair_7f1ee6fc831748ffb498cf34753d8c56
+    name: priceTo
+    value: "20"
+    description: ""
+    disabled: true
+  - id: pair_d9f301c9eece4232947604a5244b1427
+    name: organisation
+    value: Card
+    description: ""
+    disabled: true
+  - id: pair_ea48cda38a394e46b12a7f0e7b53115f
+    name: media
+    value: grün
+    description: ""
+    disabled: true
+  - id: pair_35ef2d8dd0fc4ca296593dde477a364e
+    name: mediaGroups
+    value: ""
+    description: ""
+    disabled: true
+  - id: pair_25990accefda49b9a72cabd75a4f7f4f
+    name: mediaGroupType
+    value: ""
+    description: ""
+    disabled: true
+  - id: pair_6b7aa3c68d9b4a2d85c45f2178dea883
+    name: orgGroups
+    value: Card
+    description: ""
+    disabled: true
+  - id: pair_0c4da02e137e49f885636c814a3fc3e4
+    name: orgGroupType
+    value: 649dee6de974e430cb2522c9
+    description: ""
+    disabled: true
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5MjE4MjM0MSwiZXhwIjoxNjkyMjExMTQxfQ.GQl7w_IseZmihen_iGOzwbNITfMgubLBFiGerYt0s80
+  disabled: true
+metaSortKey: -1680024698800.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

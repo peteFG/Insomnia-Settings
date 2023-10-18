@@ -1,9 +1,9 @@
 _id: req_3b4eb5633a894052a1760af4059df018
 type: Request
 parentId: fld_f6f37e76d77845fd91d117ede2c39633
-modified: 1692177822423
+modified: 1692462998353
 created: 1692177275551
-url: https://medientransparenz.ima.fh-joanneum.at/api/files/download/64dc958bc2402e646c664d4d
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/download/64e0eef0d37b11ec842259cd
 name: "Get: Download One"
 description: ""
 method: GET

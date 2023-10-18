@@ -1,0 +1,33 @@
+_id: req_f1bc99c0b2424df9a3fb73120d013333
+type: Request
+parentId: fld_f6f37e76d77845fd91d117ede2c39633
+modified: 1695982804944
+created: 1695980679466
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/64e4fe69b877a27a1606103c
+name: "Patch: update file add adAction"
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"adActions": "add",
+    		"price": 6000,
+    		"transferId": "648ae4d6766c7d53f9d12b83"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NTk4MjUzNywiZXhwIjoxNjk2MDExMzM3fQ.WOkoIx72JEW6__0L0khbpqJq3-oNWSK7AjfJBD3iBn8
+  disabled: false
+metaSortKey: -1680024698803.8164
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

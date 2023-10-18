@@ -1,0 +1,29 @@
+_id: req_9783d1d739b74669ba6795750228695c
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1692982352634
+created: 1692982313817
+url: http://localhost:3000/api/files/local/deleteAll
+name: "Delete: files/delete all LOCAL"
+description: ""
+method: DELETE
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: Insomnia/2023.5.2
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJwYXllciJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTI3MDY1NjEsImV4cCI6MTY5MjczNTM2MX0.H4WxQulusDdbY0Nth6_zrHAgD8jzsyXty3Unvp8N4TE
+metaSortKey: -1672169449877.2227
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

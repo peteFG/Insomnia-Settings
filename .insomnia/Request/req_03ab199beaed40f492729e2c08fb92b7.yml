@@ -1,7 +1,7 @@
 _id: req_03ab199beaed40f492729e2c08fb92b7
 type: Request
 parentId: fld_f6f37e76d77845fd91d117ede2c39633
-modified: 1695021471893
+modified: 1697121136923
 created: 1692177275535
 url: https://medientransparenz.ima.fh-joanneum.at/api/files/upload
 name: "Post: files/upload"
@@ -14,29 +14,48 @@ body:
       value: ""
       id: pair_38f6fc16b2344630b739d1715f4df743
       type: file
-      fileName: C:\Users\pfeld\OneDrive - FH JOANNEUM\AIM
-        Masterstudium\Masterarbeit\dummy
-        data\videos\file_example_AVI_1920_2_3MG.avi
+      fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
+        data\videos\Cropped.mp4
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
-      value: Medium Large Video
+      value: Medientransparenz Einseiter
       description: ""
       disabled: false
     - id: pair_910807966d32467d982df3fe28cefe20
       name: description
-      value: Medium Large Video for Testing Purposes
+      value: A flyover shot of a beach
       description: ""
-      disabled: false
+      disabled: true
     - id: pair_477845328cb94afa88ea511f6550d1b2
       name: price
-      value: "125000"
+      value: "2500"
       description: ""
       disabled: false
     - id: pair_382e436245d64877b10c83166c877904
       name: transferId
-      value: 648ae42d766c7d53f9d02f1f
+      value: 648ae536766c7d53f9d1bfbb
       description: ""
       disabled: false
+    - id: pair_b3b2f02a5938440d9e5ae9050b73fab8
+      name: price
+      value: "23000"
+      description: ""
+      disabled: true
+    - id: pair_ad58220e98ba419b977ff108e91e1681
+      name: transferId
+      value: 648ae4d6766c7d53f9d138d9
+      description: ""
+      disabled: true
+    - id: pair_a41df77067124a67a0be5ebd2a445b36
+      name: price
+      value: "14000"
+      description: ""
+      disabled: true
+    - id: pair_95fb61ae80fc40219547964193e86cbc
+      name: transferId
+      value: 648ae4ef766c7d53f9d1561b
+      description: ""
+      disabled: true
 parameters: []
 headers:
   - name: Content-Type
@@ -45,7 +64,7 @@ headers:
     value: Insomnia/2023.5.2
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NTAyMTQ2MiwiZXhwIjoxNjk1MDUwMjYyfQ._Rnbq1qLlzBCL9aOoCCWQm07ww5tooeVtQCwTFXbIuo
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NzEyMTEyMSwiZXhwIjoxNjk3MTQ5OTIxfQ.lWVb1CR3qz1CSAfZHCBS-Ke5jAIqwAC8LFLk0Im2gqs
 metaSortKey: -1680024698817
 isPrivate: false
 settingStoreCookies: true

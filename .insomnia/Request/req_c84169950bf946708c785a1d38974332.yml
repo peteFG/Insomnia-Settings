@@ -1,9 +1,9 @@
 _id: req_c84169950bf946708c785a1d38974332
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1692016056308
+modified: 1697120308066
 created: 1688492410729
-url: http://localhost:3000/api/files/64da1d4eb45ca6120edf7a24
+url: http://localhost:3000/api/files/64ec74ffeae2f9fe704a39cc
 name: "Delete: Delete One"
 description: ""
 method: DELETE
@@ -16,7 +16,7 @@ headers:
     value: multipart/form-data
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZDhjNmQxMTBkM2FiOTBiMGI1YmMzZSIsInVzZXJuYW1lIjoicGF5ZXIiLCJlbWFpbCI6InBheWVyQGdtYWlsLmNvbSIsInJvbGVzIjpbInVzZXIiLCJhZG1pbiIsImdyb3VwIiwicGF5ZXIiXSwiYWN0aXZlIjp0cnVlLCJwcm92aWRlciI6ImxvY2FsIiwiX192IjowfSwiaWF0IjoxNjkxOTk5MTUxLCJleHAiOjE2OTIwMjc5NTF9.Mo5p9gxvW-cu1MyJqm03aRClSCwXWAJ4m3n_9iKmB8k
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NzExNzQwOCwiZXhwIjoxNjk3MTQ2MjA4fQ.LxRZwOWXCXOELqQ-F1pLwttY5z3ofH6u24Rz8d7orIY
   disabled: false
 metaSortKey: -1680024698792.3906
 isPrivate: false

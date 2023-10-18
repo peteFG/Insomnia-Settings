@@ -1,0 +1,32 @@
+_id: req_4b666dafb31f42f4bb635d33d637270d
+type: Request
+parentId: fld_f6f37e76d77845fd91d117ede2c39633
+modified: 1695980702323
+created: 1695980653371
+url: https://medientransparenz.ima.fh-joanneum.at/api/files/651317edabddd0d9fc04ce96
+name: "Patch: update file remove adAction"
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"adActions": "remove",
+    		"transferId": "63964a9581fe55cd38ddf339"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNTI4ODc1NjAzNjc0NDMyYjRlNTBiNCIsInVzZXJuYW1lIjoicGV0ZSIsImVtYWlsIjoicC5mZWxkZ3JpbGxAZ21haWwuY29tIiwicm9sZXMiOlsidXNlciIsImFkbWluIiwiZ3JvdXAiLCJwYXllciJdLCJhY3RpdmUiOnRydWUsInByb3ZpZGVyIjoibG9jYWwiLCJfX3YiOjB9LCJpYXQiOjE2OTU4MjIyNzUsImV4cCI6MTY5NTg1MTA3NX0.gQ6YcfAXsceyH4gGjTXlLaAx9gXRpicIrsCvQlYAc2A
+  disabled: false
+metaSortKey: -1680024698804.3047
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

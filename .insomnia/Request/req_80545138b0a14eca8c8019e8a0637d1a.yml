@@ -1,10 +1,10 @@
-_id: req_f6dfdeeab33a4fa0a33a7443880d66ab
+_id: req_80545138b0a14eca8c8019e8a0637d1a
 type: Request
 parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
-modified: 1697120352036
-created: 1680024863882
-url: http://localhost:3000/api/files/upload
-name: "Post: files/upload"
+modified: 1693044379925
+created: 1692982262515
+url: http://localhost:3000/api/files/local/upload
+name: "Post: files/upload LOCAL"
 description: ""
 method: POST
 body:
@@ -15,12 +15,12 @@ body:
       id: pair_38f6fc16b2344630b739d1715f4df743
       type: file
       fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
-        data\videos\Cropped.mp4
+        data\images\taking_a_summer_stroll_on_the_pier.jpg
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
-      value: A picture of an orange cat
+      value: TestWmv
       description: ""
-      disabled: false
+      disabled: true
     - id: pair_910807966d32467d982df3fe28cefe20
       name: description
       value: An analysis of different tools such as JMeter which are used for testing.
@@ -28,22 +28,12 @@ body:
       disabled: true
     - id: pair_477845328cb94afa88ea511f6550d1b2
       name: price
-      value: "55"
-      description: ""
-      disabled: false
-    - id: pair_382e436245d64877b10c83166c877904
-      name: transferId
-      value: 649dee6de974e430cb2521ff
-      description: ""
-      disabled: false
-    - id: pair_d0f1375e53c842dc8333267be1a9ed3c
-      name: price
-      value: "91"
+      value: "14"
       description: ""
       disabled: true
-    - id: pair_512abb4fa93e4090826ec1c4545550ba
+    - id: pair_382e436245d64877b10c83166c877904
       name: transferId
-      value: 649dee6de974e430cb2522b5
+      value: 649dee6de974e430cb2522c9
       description: ""
       disabled: true
 parameters: []
@@ -54,8 +44,8 @@ headers:
     value: Insomnia/2023.5.2
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NzExNzQwOCwiZXhwIjoxNjk3MTQ2MjA4fQ.LxRZwOWXCXOELqQ-F1pLwttY5z3ofH6u24Rz8d7orIY
-metaSortKey: -1680024698817
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5MzA0MjU3NCwiZXhwIjoxNjkzMDcxMzc0fQ.kz-zp2T9dJXOTbYJd1Br998_Dva3YSC1nB3tzisA6ro
+metaSortKey: -1680024698692.3906
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
