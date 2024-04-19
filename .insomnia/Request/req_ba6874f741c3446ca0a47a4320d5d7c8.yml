@@ -1,0 +1,26 @@
+_id: req_ba6874f741c3446ca0a47a4320d5d7c8
+type: Request
+parentId: fld_0a8f2aec583c4613ae26af6d8a16c056
+modified: 1706966887411
+created: 1706966725385
+url: https://app.23degrees.io/api/v2/content/n3vfefqpLyjsQ5s2-line-lastfluesse/data
+name: line-lastfluesse
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+    id: pair_57e24a1c2287461abd654cdf1e5527bb
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDUwZGMwMjEzNjhkM2YwZDkzZWMxMGQiLCJlbWFpbCI6ImFwZy1hcGlAMjNkZWdyZWVzLmlvIiwic2x1ZyI6ImFwZy1hcGktdXNlciIsInJvbGVzIjpbXSwiaWF0IjoxNjgzMDIwODAyfQ.SuwZlsWe_GopDUhTg3RTaRhOGA0roqeD5UyoTbMyHsQ
+metaSortKey: -1706966878829
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

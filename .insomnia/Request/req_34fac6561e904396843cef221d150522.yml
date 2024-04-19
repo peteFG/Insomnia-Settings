@@ -1,0 +1,23 @@
+_id: req_34fac6561e904396843cef221d150522
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713175050670
+created: 1713175040222
+url: http://localhost:7051/api/BeerRating/GetBestRating
+name: Best Rating
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+authentication: {}
+metaSortKey: -1713108121523
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

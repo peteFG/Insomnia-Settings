@@ -1,0 +1,27 @@
+_id: req_4d12b9a777ec438c960a1e8c9d76d20d
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713457492129
+created: 1713109000934
+url: http://localhost:7051/api/BeerRating/GetAllPicturesFromSittim
+name: GetAllPicturesFromRating
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: sittimId
+    value: 66213f308968ac61fad1471b
+    disabled: false
+    id: pair_740468324a4345949448954ecb427245
+headers:
+  - name: accept
+    value: text/plain
+authentication: {}
+metaSortKey: -1713108121323
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

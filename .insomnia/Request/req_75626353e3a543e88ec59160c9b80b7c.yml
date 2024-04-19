@@ -1,0 +1,23 @@
+_id: req_75626353e3a543e88ec59160c9b80b7c
+type: Request
+parentId: fld_0a8f2aec583c4613ae26af6d8a16c056
+modified: 1706966878371
+created: 1706965981305
+url: https://awareness.cloud.apg.at/api/v1/PeakHourStatus
+name: Peak Hours
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+authentication: {}
+metaSortKey: -1706966878329
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,38 @@
+_id: req_913d5b928d864289b633cf3c987f49ff
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713454398113
+created: 1713454102411
+url: http://localhost:7051/api/BeerRating/AddRating
+name: AddRating with existing Sitting
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "brandName": "Schladminger",
+      "sortName": "Bio Zwickl",
+      "description": "sehr geil",
+      "sittimRef": "662130c51d2659e9efe9917a",
+      "scorePete": 10,
+      "scoreAndrea": 6
+    }
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI2NjIwMDE5MDFhMjU4NjFmMDBhZGM2YTgiLCJnaXZlbl9uYW1lIjoiRmVsZGdyaWxsIFBldGVyIiwid2luYWNjb3VudG5hbWUiOiJwZXRlRkciLCJuYmYiOjE3MTMzODQyNTgsImV4cCI6MTcxMzk4OTA1NiwiaWF0IjoxNzEzMzg0MjU4LCJpc3MiOiJteUlzc3VlciIsImF1ZCI6Im15QXVkaWVuY2UifQ.NA0aambkcpmWlMhPxMe0SPtWADH7yqQiqfldlaJw_KU
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1713108122123
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

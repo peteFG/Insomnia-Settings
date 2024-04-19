@@ -1,0 +1,36 @@
+_id: req_7fc1a992a63048529e383d2550089e4e
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713445657868
+created: 1713440711768
+url: http://localhost:7051/api/User/CreateUser
+name: CreateUser
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "userName": "admin2",
+      "firstname": "admin",
+      "lastname": "admin",
+      "password": "admin"
+    }
+parameters: []
+headers:
+  - name: accept
+    value: text/plain
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI2NjIwMDE5MDFhMjU4NjFmMDBhZGM2YTgiLCJnaXZlbl9uYW1lIjoiRmVsZGdyaWxsIFBldGVyIiwid2luYWNjb3VudG5hbWUiOiJwZXRlRkciLCJuYmYiOjE3MTMzODQyNTgsImV4cCI6MTcxMzk4OTA1NiwiaWF0IjoxNzEzMzg0MjU4LCJpc3MiOiJteUlzc3VlciIsImF1ZCI6Im15QXVkaWVuY2UifQ.NA0aambkcpmWlMhPxMe0SPtWADH7yqQiqfldlaJw_KU
+  disabled: false
+metaSortKey: -1713108121923
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

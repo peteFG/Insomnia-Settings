@@ -1,0 +1,39 @@
+_id: req_9da4ed9e31724533af7ed1e870127627
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713456351603
+created: 1713451248292
+url: http://localhost:7051/api/BeerRating/AddRating
+name: AddRating with new Sitting
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "brandName": "Pinzga1",
+      "sortName": "Phönix aus der Asche",
+      "description": "Aschenbecher ausschlecken",
+      "sittim": "2024-04-17T00:00:00.000Z",
+      "scorePete": 10,
+      "scoreAndrea": 10,
+      "location": "Biergartl"
+    }
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI2NjIxMDc2YWNhMzEwOGFhNjhjMzFiY2QiLCJnaXZlbl9uYW1lIjoiYWRtaW4gYWRtaW4iLCJ3aW5hY2NvdW50bmFtZSI6ImFkbWluIiwibmJmIjoxNzEzNDUwNzM2LCJleHAiOjE3MTQwNTU1MzYsImlhdCI6MTcxMzQ1MDczNiwiaXNzIjoibXlJc3N1ZXIiLCJhdWQiOiJteUF1ZGllbmNlIn0.OgJf63iTVELuzyfDq6nrPIt26cSM8TpD1H3or3XX3-w
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1713108122023
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

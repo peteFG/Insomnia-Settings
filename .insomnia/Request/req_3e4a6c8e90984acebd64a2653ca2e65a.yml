@@ -1,0 +1,66 @@
+_id: req_3e4a6c8e90984acebd64a2653ca2e65a
+type: Request
+parentId: fld_ee02acdcc9da43e9b2356deeb46b711a
+modified: 1700172494409
+created: 1700172202996
+url: http://localhost:3000/api/files/upload
+name: "Post: files/upload json"
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: file
+      value: ""
+      id: pair_38f6fc16b2344630b739d1715f4df743
+      type: file
+      fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
+        data\pdf\Comparative Analysis of Automated Load Testing Tools Jmeter,
+        Visual Studio, Load Runner, Siege.pdf
+    - id: pair_000fc3db672145b5b7109bf00e26491d
+      name: name
+      value: Comparative Analysis of Automated Load Testing Tools
+      description: ""
+      disabled: false
+    - id: pair_910807966d32467d982df3fe28cefe20
+      name: description
+      value: An analysis of different tools such as JMeter which are used for testing.
+      description: ""
+      disabled: false
+    - id: pair_477845328cb94afa88ea511f6550d1b2
+      name: price
+      value: "55"
+      description: ""
+      disabled: false
+    - id: pair_382e436245d64877b10c83166c877904
+      name: transferId
+      value: 649dee6de974e430cb2521ff
+      description: ""
+      disabled: false
+    - id: pair_d0f1375e53c842dc8333267be1a9ed3c
+      name: price
+      value: "91"
+      description: ""
+      disabled: false
+    - id: pair_512abb4fa93e4090826ec1c4545550ba
+      name: transferId
+      value: 649dee6de974e430cb2522b5
+      description: ""
+      disabled: false
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: Insomnia/2023.5.2
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0OWRlZDY4ZTk3NGU0MzBjYjI0MmYzMSIsInVzZXJuYW1lIjoicGV0ZUZHIiwiZW1haWwiOiJwLmZlbGRncmlsbEBnbWFpbC5jb20iLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NzExNzQwOCwiZXhwIjoxNjk3MTQ2MjA4fQ.LxRZwOWXCXOELqQ-F1pLwttY5z3ofH6u24Rz8d7orIY
+metaSortKey: -1680024698815.0469
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

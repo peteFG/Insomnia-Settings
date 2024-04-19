@@ -1,7 +1,7 @@
 _id: req_03ab199beaed40f492729e2c08fb92b7
 type: Request
 parentId: fld_f6f37e76d77845fd91d117ede2c39633
-modified: 1697121136923
+modified: 1700210944414
 created: 1692177275535
 url: https://medientransparenz.ima.fh-joanneum.at/api/files/upload
 name: "Post: files/upload"
@@ -15,7 +15,7 @@ body:
       id: pair_38f6fc16b2344630b739d1715f4df743
       type: file
       fileName: D:\OneDrive - FH JOANNEUM\AIM Masterstudium\Masterarbeit\dummy
-        data\videos\Cropped.mp4
+        data\pdf\Performance Engineering and Database Development at MongoDB.pdf
     - id: pair_000fc3db672145b5b7109bf00e26491d
       name: name
       value: Medientransparenz Einseiter
@@ -33,7 +33,7 @@ body:
       disabled: false
     - id: pair_382e436245d64877b10c83166c877904
       name: transferId
-      value: 648ae536766c7d53f9d1bfbb
+      value: 650840d0b4a1dd1133779bdd
       description: ""
       disabled: false
     - id: pair_b3b2f02a5938440d9e5ae9050b73fab8
@@ -64,7 +64,7 @@ headers:
     value: Insomnia/2023.5.2
 authentication:
   type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTY5NzEyMTEyMSwiZXhwIjoxNjk3MTQ5OTIxfQ.lWVb1CR3qz1CSAfZHCBS-Ke5jAIqwAC8LFLk0Im2gqs
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGM4M2U1ZDA3MDJkZGQxN2FjN2QyNSIsInVzZXJuYW1lIjoidGVzdEZlbGRncmlsbCIsImVtYWlsIjoidGVzdEBmZWxkZ3JpbGwuYXQiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iLCJncm91cCIsInBheWVyIl0sImFjdGl2ZSI6dHJ1ZSwicHJvdmlkZXIiOiJsb2NhbCIsIl9fdiI6MH0sImlhdCI6MTcwMDIxMDg4NiwiZXhwIjoxNzAwMjM5Njg2fQ.xaNivkx6mYXNhH9bBb0mxYiN0bNRlZY6RP_FWTo0v18
 metaSortKey: -1680024698817
 isPrivate: false
 settingStoreCookies: true

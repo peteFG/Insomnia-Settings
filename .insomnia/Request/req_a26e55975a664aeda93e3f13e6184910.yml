@@ -1,0 +1,27 @@
+_id: req_a26e55975a664aeda93e3f13e6184910
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713458387098
+created: 1713108960608
+url: http://localhost:7051/api/BeerRating/GetOnePicture
+name: DownloadOnePicture
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: pictureId
+    value: 66214867227af5bdd39ce695
+    disabled: false
+    id: pair_5027cd36fccb43548730d6f5a6b2fa65
+headers:
+  - name: accept
+    value: "*/*"
+authentication: {}
+metaSortKey: -1713108121223
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

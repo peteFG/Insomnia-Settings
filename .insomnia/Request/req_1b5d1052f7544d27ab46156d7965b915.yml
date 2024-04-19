@@ -1,0 +1,45 @@
+_id: req_1b5d1052f7544d27ab46156d7965b915
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713456692921
+created: 1713108179230
+url: http://localhost:7051/api/BeerRating/AddRatings
+name: AddBeerRatings
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    [
+    	{
+    		"brandName": "Stiegl",
+    		"sortName": "vd",
+    		"sittim": "2024-04-14T00:00:00.00Z",
+    		"scorePete": 5,
+    		"scoreAndrea": 10
+    	},
+    	{
+    		"brandName": "Stiegl",
+    		"sortName": "rv",
+    		"sittim": "2024-04-14T00:00:00.00Z",
+    		"scorePete": 4,
+    		"scoreAndrea": 10
+    	}
+    ]
+parameters: []
+headers:
+  - name: accept
+    value: text/plain
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI2NjIwMDE5MDFhMjU4NjFmMDBhZGM2YTgiLCJnaXZlbl9uYW1lIjoiRmVsZGdyaWxsIFBldGVyIiwid2luYWNjb3VudG5hbWUiOiJwZXRlRkciLCJuYmYiOjE3MTMzODQyNTgsImV4cCI6MTcxMzk4OTA1NiwiaWF0IjoxNzEzMzg0MjU4LCJpc3MiOiJteUlzc3VlciIsImF1ZCI6Im15QXVkaWVuY2UifQ.NA0aambkcpmWlMhPxMe0SPtWADH7yqQiqfldlaJw_KU
+metaSortKey: -1713108121023
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

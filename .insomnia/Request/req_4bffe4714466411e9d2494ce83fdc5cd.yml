@@ -1,0 +1,26 @@
+_id: req_4bffe4714466411e9d2494ce83fdc5cd
+type: Request
+parentId: fld_0a8f2aec583c4613ae26af6d8a16c056
+modified: 1706966886487
+created: 1706966779939
+url: https://app.23degrees.io/api/v2/content/dpcgsZKysiXZmwtf-bar-vertical-eigenerzeugung-von-energie-in/data
+name: bar-vertical-eigenerzeugung-von-energie-in
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+    id: pair_57e24a1c2287461abd654cdf1e5527bb
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDUwZGMwMjEzNjhkM2YwZDkzZWMxMGQiLCJlbWFpbCI6ImFwZy1hcGlAMjNkZWdyZWVzLmlvIiwic2x1ZyI6ImFwZy1hcGktdXNlciIsInJvbGVzIjpbXSwiaWF0IjoxNjgzMDIwODAyfQ.SuwZlsWe_GopDUhTg3RTaRhOGA0roqeD5UyoTbMyHsQ
+metaSortKey: -1706966878729
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,36 @@
+_id: req_d721a61ea4184110a378fc7792a70d7d
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713385524811
+created: 1713385321214
+url: http://localhost:7051/api/BeerRating/AddScore
+name: AddScoreToRating
+description: ""
+method: POST
+body:
+  text: ""
+  mimeType: ""
+parameters:
+  - name: ratingId
+    value: 6620004d14383a161f1dad61
+    disabled: false
+    id: pair_a273389fe8794ed0bdaf23c1af30678d
+  - name: score
+    value: "9"
+    disabled: false
+    id: pair_9373367b6909484783a05d0b175af69c
+headers:
+  - name: accept
+    value: text/plain
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI2NjIwMzAxMWQwMDMxMWVjYzFlODVmMmIiLCJnaXZlbl9uYW1lIjoiS3JhaW5lciBBbmRyZWEiLCJ3aW5hY2NvdW50bmFtZSI6IkRpdHNjaCIsIm5iZiI6MTcxMzM4NTUwMywiZXhwIjoxNzEzOTkwMzAzLCJpYXQiOjE3MTMzODU1MDMsImlzcyI6Im15SXNzdWVyIiwiYXVkIjoibXlBdWRpZW5jZSJ9.bxewjVdWQPIrnRRuTP6f44ZBS7j7E5K9oRjdT3lfe_0
+  disabled: false
+metaSortKey: -1713108121723
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

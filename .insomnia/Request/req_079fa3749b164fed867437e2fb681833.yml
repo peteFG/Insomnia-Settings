@@ -1,0 +1,36 @@
+_id: req_079fa3749b164fed867437e2fb681833
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713458427699
+created: 1713458413306
+url: http://localhost:7051/api/BeerRating/AddPicturesToSittim
+name: RemovePicturesFromSittim
+description: ""
+method: PATCH
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: files
+      fileName: WhatsApp Image 2024-03-27 at 19.31.22_f125ca03.jpg;type
+      type: file
+    - name: files
+      fileName: WhatsApp Image 2024-04-09 at 22.46.12_676f31f4.jpg;type
+      type: file
+parameters:
+  - name: sittimId
+    value: 66213f308968ac61fad1471b
+    disabled: false
+headers:
+  - name: accept
+    value: "*/*"
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1713108121348
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

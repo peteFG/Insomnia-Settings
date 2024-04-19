@@ -1,0 +1,26 @@
+_id: req_277900b87e5e475da526af2c74604475
+type: Request
+parentId: fld_0a8f2aec583c4613ae26af6d8a16c056
+modified: 1706966888281
+created: 1706966518391
+url: https://app.23degrees.io/api/v2/content/onFQVwdMNSZ62rCN-line-erzeugung-erneuerbarer-energien/data
+name: CN-line-erzeugung-erneuerbarer-energien
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+    id: pair_57e24a1c2287461abd654cdf1e5527bb
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDUwZGMwMjEzNjhkM2YwZDkzZWMxMGQiLCJlbWFpbCI6ImFwZy1hcGlAMjNkZWdyZWVzLmlvIiwic2x1ZyI6ImFwZy1hcGktdXNlciIsInJvbGVzIjpbXSwiaWF0IjoxNjgzMDIwODAyfQ.SuwZlsWe_GopDUhTg3RTaRhOGA0roqeD5UyoTbMyHsQ
+metaSortKey: -1706966878929
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

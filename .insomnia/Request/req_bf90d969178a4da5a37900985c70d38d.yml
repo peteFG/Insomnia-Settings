@@ -1,0 +1,38 @@
+_id: req_bf90d969178a4da5a37900985c70d38d
+type: Request
+parentId: fld_0c8f92e28b0444a3b7f4732c120f0d87
+modified: 1713471200259
+created: 1713457280102
+url: http://localhost:7051/api/Sittim/AddPicturesToSittim
+name: Add Pictures To Sittim
+description: ""
+method: PATCH
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: files
+      fileName: F:\Pictures\Sittims\WhatsApp Image 2024-04-09 at 22.46.12_676f31f4.jpg
+      type: file
+      id: pair_6c15315afc8c4584ba087cb018fc8ffb
+parameters:
+  - name: sittimId
+    value: 662130c51d2659e9efe9917a
+    disabled: false
+    id: pair_84e2c94679544f6fa71f81e4e0bce5fe
+headers:
+  - name: accept
+    value: "*/*"
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI2NjIwMDE5MDFhMjU4NjFmMDBhZGM2YTgiLCJnaXZlbl9uYW1lIjoiRmVsZGdyaWxsIFBldGVyIiwid2luYWNjb3VudG5hbWUiOiJwZXRlRkciLCJuYmYiOjE3MTMzODQyNTgsImV4cCI6MTcxMzk4OTA1NiwiaWF0IjoxNzEzMzg0MjU4LCJpc3MiOiJteUlzc3VlciIsImF1ZCI6Im15QXVkaWVuY2UifQ.NA0aambkcpmWlMhPxMe0SPtWADH7yqQiqfldlaJw_KU
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1713108121073
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
